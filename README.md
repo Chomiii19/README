@@ -3,7 +3,7 @@
 
 <div align="left">
 📌 Aspiring software engineer<br>
-📚 Studying Computer Science in Technological University of the Philippines - Manila<br>
+📚 Studying **Computer Science** in Technological University of the Philippines - Manila<br>
 👨🏼‍🎓 3rd year Computer Science student<br>
 🖥️ Full stack web-developer<br>
 </div>
