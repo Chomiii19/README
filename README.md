@@ -5,13 +5,13 @@
 📌 Aspiring software engineer<br>
 📚 Studying Computer Science in Technological University of the Philippines - Manila<br>
 👨🏼‍🎓 3rd year Computer Science student<br>
-🖥️ Full stack web-developer<br>
+🖥️ Full stack developer<br>
 </div>
 
 ###
 
 <div align="center">
-<h2 align=left>🖥️Tech Stack</h2>
+<h2 align=left>⚙️Tech Stack</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  />
