@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hi, I'm Chomi!</h1>
+<h1 align="left">🇵🇭 Hi, I'm Chomi!</h1>
 <img align="right" height="120" src="./cute-cat-white.gif"  />
 
 <div align="left">
